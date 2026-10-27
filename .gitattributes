@@ -1,0 +1,9 @@
+# This repo is worked on with `core.autocrlf=true`, and the project convention is
+# UTF-8 (no BOM) + CRLF. Git's heuristics detect binaries well, but images are
+# declared explicitly too: an accidental line-ending conversion would silently
+# corrupt them.
+*.jpg   binary
+*.jpeg  binary
+*.png   binary
+*.svg   binary
+*.bin   binary

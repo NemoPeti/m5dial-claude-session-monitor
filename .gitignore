@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+email*.html
+build/
+typings/
+.remember/
+.env*
+docs/STATE.md
+.claude/
+CLAUDE.md

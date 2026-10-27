@@ -1,0 +1,18 @@
+{
+    "include": [
+        "src"
+    ],
+    "extraPaths": [
+        "typings",
+        "tools/session_agent"
+    ],
+    "pythonVersion": "3.12",
+    "typeCheckingMode": "basic",
+    "reportMissingImports": "warning",
+    "reportMissingModuleSource": "none",
+    "reportAttributeAccessIssue": "none",
+    "reportWildcardImportFromLibrary": "none",
+    "reportOptionalMemberAccess": "none",
+    "reportIndexIssue": "none",
+    "reportArgumentType": "none"
+}
